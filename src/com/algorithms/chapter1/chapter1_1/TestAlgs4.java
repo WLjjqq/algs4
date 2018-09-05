@@ -7,7 +7,7 @@ package com.algorithms.chapter1.chapter1_1;
  *                http://introcs.cs.princeton.edu/mac/cover.jpg
  *
  *  Draws a blue bullseye and textbook graphic.
- * 今天开始学习算法。参考数据《算法4》 .
+ * 今天开始学习算法。参考数据《算法4》 .http://blog.jobbole.com/tag/数据结构/
  * 参考源码：https://algs4.cs.princeton.edu/code/
  * 课后习题：https://github.com/jimmysuncpt/Algorithms
  *          https://zhangjia.tv/645.html
